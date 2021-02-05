@@ -25,7 +25,7 @@
                                 <div class="col-ph-12 col-md-6">
                                     <div class="form-group">
                                         <label for="url_as">URL :</label>
-                                        <input type="text" class="form-control" id="url_as" name="apifbData[url_as]" value="{$apifb.url_as}" size="50" />
+                                        <input type="text" class="form-control" id="url_as" name="apiasData[url_as]" value="{$apias.url_as}" size="50" />
                                     </div>
                                 </div>
                             </div>
@@ -33,7 +33,7 @@
                                 <div class="col-ph-12 col-md-6">
                                     <div class="form-group">
                                         <label for="key_as">API Key :</label>
-                                        <input type="text" class="form-control" id="key_as" name="apifbData[key_as]" value="{$apifb.key_as}" size="50" />
+                                        <input type="text" class="form-control" id="key_as" name="apiasData[key_as]" value="{$apias.key_as}" size="50" />
                                     </div>
                                 </div>
                             </div>
